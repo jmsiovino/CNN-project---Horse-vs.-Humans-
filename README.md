@@ -1,1 +1,1 @@
-Practice project CNN to determine the difference between a horse and human.
+CNN project to determine the difference between a horse and human.
